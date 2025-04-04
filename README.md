@@ -36,4 +36,4 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ali-hamza-portfolio.git
+   git clone https://github.com/yourusername/Ali-Hamza-portfolio.git
