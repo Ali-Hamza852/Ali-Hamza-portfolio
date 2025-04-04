@@ -1,7 +1,5 @@
 # Ali-Hamza-portfolio
 
-![Portfolio Preview](preview.png)
-
 ## 📋 Overview
 
 A modern, responsive portfolio website showcasing my skills, projects, and professional experience. This portfolio features a clean design with interactive elements, animations, and a dark/light mode toggle.
